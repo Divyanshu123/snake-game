@@ -1,0 +1,81 @@
+table{
+  margin:auto;
+  border: 5px #0f4022 solid;
+  margin-top:50px;
+  background-color: #59bd59;
+}
+#gameover{
+  text-align: center;
+}
+#restart{
+  border:2px #1d1c78 solid;
+  background-color: #7170c4;
+  text-align: center;
+  width:150px;
+  margin:auto;
+}
+#score{
+  text-align: center;
+}
+body{
+  background-color: #7ca17c;
+}
+td{
+  width:20px;
+  height:20px;
+}
+#up{
+  background-color: "blue";
+  width:50px;
+  height:50px;
+  border-radius: 25px;
+  border:2px black solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+
+}
+
+#nav{
+  margin-top:0px;
+  border:0;
+  background-color: #7ca17c;
+}
+#left{
+
+  width: 50px;
+  height:50px;
+  border-radius: 25px;
+  border: 2px black solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
+#center{
+  text-align: center;
+  font-size: 1em;
+}
+#right{
+  width: 50px;
+  height:50px;
+  border-radius: 25px;
+  border: 2px black solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
+#down{
+  background-color: "blue";
+  width:50px;
+  height:50px;
+  border-radius: 25px;
+  border:2px black solid;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+
+}
+/* #left,#right{
+  display: inline;
+
+} */
